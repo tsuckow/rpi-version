@@ -1,6 +1,6 @@
 {
-  "name": "rpi-version",
-  "version": "1.4.0",
+  "name": "rpi-version-next",
+  "version": "1.5.0",
   "description": "Detect raspberry pi revision",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ivsgroup/rpi-version.git"
+    "url": "git@github.com:tsuckow/rpi-version-next.git"
   },
   "keywords": [
     "rpi",
@@ -19,7 +19,7 @@
   "author": "Francois Leurent <fleurent@ivsweb.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ivsgroup/rpi-version/issues"
+    "url": "https://github.com/tsuckow/rpi-version-next/issues"
   },
-  "homepage": "https://github.com/ivsgroup/rpi-version"
+  "homepage": "https://github.com/tsuckow/rpi-version-next"
 }

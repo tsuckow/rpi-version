@@ -1,6 +1,10 @@
 # Rpi version
 
-[![Version](https://img.shields.io/npm/v/rpi-version.svg)](https://www.npmjs.com/package/rpi-version)
+> 
+> :bangbang: This is a fork of [rpi-version](https://www.npmjs.com/package/rpi-version) with features that havn't been published yet
+> 
+
+[![Version](https://img.shields.io/npm/v/rpi-version-next.svg)](https://www.npmjs.com/package/rpi-version-next)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
 Detect current RPI revision (from CPU infos [raspberrypi-spy.co.uk](http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/) )
@@ -9,7 +13,7 @@ List of additional revisions found [on wikipedia](https://fr.wikipedia.org/wiki/
 
 # API
 ```
-var model = require('rpi-version')();
+var model = require('rpi-version-next')();
 //return current RPI model OR undefined
 ```
 
